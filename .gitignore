@@ -21,7 +21,6 @@
 __history/
 *.~*
 *.dcu
-*.dof
 *.cfg
 
 # Add build directories below 
